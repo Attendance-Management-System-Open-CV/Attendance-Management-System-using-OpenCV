@@ -67,6 +67,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 
   ### Thanks to the OpenCV and face_recognition communities for their valuable contributions.
-   # Special thanks to our team members for their hard work on this project.
+  ### Special thanks to our team members for their hard work on this project.
 
 Feel free to reach out to us with any questions or feedback. Happy coding!            :)
