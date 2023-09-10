@@ -13,19 +13,19 @@ The Attendance Management System is a Python-based application that uses OpenCV 
   
 -> Lokesh Rahul
 
-  Linkedin Handle:
+  Linkedin Handle: https://www.linkedin.com/in/lokesh-rahul-066ab7277
   
 -> Aakash
 
-  Linkedin Handle:
+  Linkedin Handle: https://in.linkedin.com/in/aakash-p-631677272
   
--> Vasantha Mukila
+-> Vasantha Mukilan
 
-  Linkedin Handle:n
+  Linkedin Handle: https://www.linkedin.com/in/vasanthamukilan-m-11644b279
   
 -> karthick
 
-  Linkedin Handle:
+  Linkedin Handle: https://www.linkedin.com/in/karthick-prabakaran-8253211b6/
 
 ## Features
 
