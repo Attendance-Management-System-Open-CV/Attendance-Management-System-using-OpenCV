@@ -68,6 +68,17 @@ step 3 - Run the main script:
 python3 main.py
 ```
 
+### Output:
+
+#### scanning the face:
+![Screenshot 2023-09-10 133018](https://github.com/Attendance-Management-System-Open-CV/Attendance-Management-System-using-OpenCV/assets/72570119/5ffa2f5d-bd99-46ae-939f-49b3e761acc0)
+
+
+#### Updating the present students in an csv file:
+
+![Screenshot 2023-09-10 133334](https://github.com/Attendance-Management-System-Open-CV/Attendance-Management-System-using-OpenCV/assets/72570119/742ea06d-94b6-41e1-babf-d9d511b04722)
+
+
 
 ### Contributing:
 
